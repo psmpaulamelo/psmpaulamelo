@@ -81,7 +81,6 @@ Aqui você encontrará:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/paulamelo)
 - 📧 [Email](psm.paulamelo@gmail.com)
-- 🌐 *(Portfólio pessoal em breve!)*
 
 ---
 
