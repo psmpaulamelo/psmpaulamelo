@@ -1,5 +1,5 @@
 "# psmpaulamelo" 
-# 💼 psmpaulamelo
+# 💼 Paula Melo 
 
 Bem-vindo(a) ao meu repositório de projetos! Aqui você encontrará um compilado dos meus estudos, desafios práticos e experiências profissionais na área de desenvolvimento de software, com ênfase em testes automatizados, desenvolvimento web e boas práticas de versionamento.
 
