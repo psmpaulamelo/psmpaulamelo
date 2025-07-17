@@ -82,7 +82,3 @@ Aqui você encontrará:
 - 💼 [LinkedIn](https://www.linkedin.com/in/paula-silva-de-melo-76066272/)
 - 📧 [Email](psm.paulamelo@gmail.com)
 
----
-
-Se quiser uma versão em inglês, posso traduzir toda a estrutura.  
-Se tiver um portfólio externo ou certificados com link, posso adicionar também. Me avise!
