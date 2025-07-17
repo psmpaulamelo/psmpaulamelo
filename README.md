@@ -7,7 +7,7 @@ QA Engineer • Automação de Testes • Cypress • Ruby on Rails • JavaScri
   <a href="https://www.linkedin.com/in/paula-silva-de-melo-76066272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:psm.paulamelo@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-Contato-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/psmpaulamelo">
