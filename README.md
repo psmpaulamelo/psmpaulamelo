@@ -49,7 +49,6 @@ Aqui você encontrará:
 | [`ecommerce_ruby`](https://github.com/psmpaulamelo/ecommerce_ruby) | Aplicação e-commerce com funcionalidades completas | Ruby on Rails, PostgreSQL |
 | [`cypress_web_mock`](https://github.com/psmpaulamelo/cypress_web_mock) | Testes automatizados com mocks de API | Cypress, JavaScript |
 | [`primeiroc_cypress`](https://github.com/psmpaulamelo/primeiroc_cypress) | Primeiro projeto usando Cypress | Cypress |
-| [`SantanderCodeGirls2022`](https://github.com/psmpaulamelo/SantanderCodeGirls2022) | Projetos e desafios da iniciativa DIO + Santander | HTML, CSS, JS |
 | [`qa-pleno-SENAI`](https://github.com/psmpaulamelo/qa-pleno-SENAI) | Projeto prático com foco em QA e automação | Cypress, Git |
 
 ---
