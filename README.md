@@ -36,7 +36,6 @@ Aqui você encontrará:
 
 - 🧪 **Projetos de automação de testes** com Cypress;
 - 🌐 **Aplicações web** com Ruby on Rails;
-- 💡 **Desafios práticos** (DIO, Santander Code Girls, etc.);
 - 🔬 **Testes E2E** e testes de API;
 - 📚 **Estudos técnicos e experimentações** com ferramentas de QA.
 
